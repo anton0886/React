@@ -1,4 +1,4 @@
-# (React)[https://anton0886.github.io/React/]
+# [React](https://anton0886.github.io/React/)
 
 Коротко
 - Навчальний проєкт для вивчення основ React: компоненти, хуки, маршрутизація, робота з API.
